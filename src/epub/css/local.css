@@ -1,17 +1,17 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:verse"] p {
-    text-align: left;
-    text-indent: 0;
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
 }
 
-.advertisement {
-    padding-top: 2em;
-    padding-bottom: 2em;
+.advertisement{
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
-.advertisement > p {
-    text-align: center;
-    text-indent: 0;
+.advertisement > p{
+	text-align: center;
+	text-indent: 0;
 }
