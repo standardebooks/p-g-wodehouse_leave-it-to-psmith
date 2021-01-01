@@ -59,12 +59,12 @@
 		<dc:source>https://catalog.hathitrust.org/Record/007144200</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leave_it_to_Psmith</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leave_It_to_Psmith</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_leave-it-to-psmith</meta>
 		<dc:creator id="author">P.G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Pelham Grenville Wodehouse</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P.G._Wodehouse</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jacob van Ruisdael</dc:contributor>
