@@ -18,12 +18,12 @@
 	display: none;
 }
 
-.advertisement{
+#chapter-1-4 > blockquote{
 	padding-top: 2em;
 	padding-bottom: 2em;
 }
 
-.advertisement > p{
+#chapter-1-4 > blockquote > p{
 	text-align: center;
 	text-indent: 0;
 }
