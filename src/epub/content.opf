@@ -64,7 +64,7 @@
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leave_It_to_Psmith</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_leave-it-to-psmith</meta>
-		<dc:creator id="author">P.G. Wodehouse</dc:creator>
+		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
