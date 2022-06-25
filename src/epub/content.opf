@@ -49,7 +49,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Psmith</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">3</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/psmith"&gt;Psmith&lt;/a&gt;, down on his luck, takes out a newspaper advertisement to undertake a job, and the &lt;abbr&gt;Hon.&lt;/abbr&gt; Freddie Threepwood, younger son of Lord Emsworth, enlists Psmith to steal his Aunt Constance’s diamond necklace. Psmith inveigles himself into Blandings Castle, posing as a Canadian poet. He falls in love with Eve Halliday and has to survive the suspicious and Efficient Baxter. In the meantime, others in Blandings Castle are also after the necklace.&lt;/p&gt;
