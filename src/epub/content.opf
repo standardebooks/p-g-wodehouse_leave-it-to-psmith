@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/60067</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007144200</dc:source>
 		<meta property="se:word-count">89551</meta>
-		<meta property="se:reading-ease.flesch">74.08</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leave_It_to_Psmith</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_leave-it-to-psmith</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
