@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith</dc:identifier>
 		<dc:date>2021-01-03T22:31:33Z</dc:date>
@@ -52,12 +52,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Psmith</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/psmith"&gt;Psmith&lt;/a&gt;, down on his luck, takes out a newspaper advertisement to undertake a job, and the &lt;abbr&gt;Hon.&lt;/abbr&gt; Freddie Threepwood, younger son of Lord Emsworth, enlists Psmith to steal his Aunt Constance’s diamond necklace. Psmith inveigles himself into Blandings Castle, posing as a Canadian poet. He falls in love with Eve Halliday and has to survive the suspicious and Efficient Baxter. In the meantime, others in Blandings Castle are also after the necklace.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Sir Pelham Grenville Wodehouse&lt;/a&gt; was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early novels were mostly &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;school stories&lt;/a&gt;, but he later switched to comic fiction, creating several regular characters who became familiar to the public over the years.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Leave It to Psmith&lt;/i&gt; was originally serialized in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; in the &lt;abbr class="initialism"&gt;U.S.&lt;/abbr&gt; and in &lt;i&gt;Grand Magazine&lt;/i&gt; in the &lt;abbr class="initialism"&gt;U.K.&lt;/abbr&gt; in 1923. It is the sequel to &lt;i&gt;Psmith, Journalist&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60067</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007144200</dc:source>
